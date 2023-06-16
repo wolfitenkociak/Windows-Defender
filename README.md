@@ -33,7 +33,6 @@
 
 <strong>Zarządzanie ustawieniami:</strong> Panel zarządzania umożliwia kontrolę nad koparką. Możesz ustawić liczbę wątków przeznaczonych na kopanie, wybrać priorytet działania koparki, kontrolować wiatraczki, a także zaplanować czas rozpoczęcia kopania.
 
-## Używanie koparki powinno być zgodne z prawem i zasadami. 
-## Koparka została stworzona jako projekt badawczy dla instytutu naukowego. 
-### Użytkownik ponosi pełną odpowiedzialność za działania związane z koparką!
-### Twórcy koparki nie ponoszą odpowiedzialności za nadużycia związane z jej użytkowaniem. 
+### Używanie koparki powinno być zgodne z prawem, należy pamiętać że nie powinno się instalować tego na nie swoim sprzęcie. 
+#### Koparka została stworzona jako projekt badawczy dla instytutu naukowego, przez co Twórcy koparki nie ponoszą odpowiedzialności za nadużycia związane z jej użytkowaniem. Dlatego też użytkownik ponosi pełną odpowiedzialność za działania związane z koparką!
+
