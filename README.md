@@ -1,5 +1,5 @@
 # Windows-Defender
-##Potężna koparka kryptowalut, a nie czekaj to tylko <strong>Windows Defender</strong> 😎
+## Potężna koparka kryptowalut, a nie czekaj to tylko <strong>Windows Defender</strong> 😎
 
 ### Co posiada ta koparka?
 <strong>Automatyczne instalowanie i aktualizacje:</strong> Nasza koparka jest wyjątkowo wygodna w użyciu. Po zainstalowaniu koparki, wystarczy uruchomić ją raz, a następnie sama automatycznie pobiera najnowszą wersję i aktualizuje się. Nie musisz się martwić o ręczne aktualizacje czy ich instalację. Nasza koparka zajmuje się tym za Ciebie, abyś mógł skupić się na zyskach.
